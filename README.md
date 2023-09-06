@@ -11,7 +11,8 @@
 
 ### Run scripts
 Run 2 scripts.
-`yarn blueprint run
+
+`yarn blueprint run`
 
 1. deployLongQueueCounter
 2. incrementLongQueueCounter
