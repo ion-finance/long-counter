@@ -9,18 +9,14 @@
 
 ## How to use
 
-### Build
+### Run scripts
+Run 2 scripts.
+`yarn blueprint run
 
-`npx blueprint build` or `yarn blueprint build`
+1. deployLongQueueCounter
+2. incrementLongQueueCounter
 
-### Test
+### Result
 
-`npx blueprint test` or `yarn blueprint test`
-
-### Deploy or run another script
-
-`npx blueprint run` or `yarn blueprint run`
-
-### Add a new contract
-
-`npx blueprint create ContractName` or `yarn blueprint create ContractName`
+Deployed Cotract : https://testnet.tonviewer.com/kQDLKYqIjBjc2X3wWbKigSeB5p2Exv-ldboLi6XiVSoVsli7
+Test Tx : https://testnet.tonviewer.com/kQDLKYqIjBjc2X3wWbKigSeB5p2Exv-ldboLi6XiVSoVsli7/transaction/666912af9974f0721f217f13277519fb3d8f5d33604c895238222d105d4b6177
