@@ -19,4 +19,5 @@ Run 2 scripts.
 ### Result
 
 Deployed Cotract : https://testnet.tonviewer.com/kQDLKYqIjBjc2X3wWbKigSeB5p2Exv-ldboLi6XiVSoVsli7
+
 Test Tx : https://testnet.tonviewer.com/kQDLKYqIjBjc2X3wWbKigSeB5p2Exv-ldboLi6XiVSoVsli7/transaction/666912af9974f0721f217f13277519fb3d8f5d33604c895238222d105d4b6177
