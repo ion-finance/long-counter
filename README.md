@@ -1,5 +1,11 @@
 # LongQueueCounter
 
+## Introduction
+
+Traverses multiple contracts and executes the tasks in the queue. Check the logical time and block separation of transaction messages on the testnet.
+<img width="682" alt="bin" src="https://github.com/ion-finance/long-counter/assets/137777209/04e04d83-3aca-41de-82af-4e854f69810f">
+
+
 ## Project structure
 
 -   `contracts` - source code of all the smart contracts of the project and their dependencies.
